@@ -27,7 +27,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "JDLF.png"
   name             : "Javier de la Fuente Hidalgo"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
