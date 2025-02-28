@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About me"
+title                    : "Javier de la Fuente Hidalgo"
 title_separator          : "-"
 name                     : &name "Javier de la Fuente Hidalgo"
 description              : &description "Postdocotral researcher"
