@@ -3,7 +3,7 @@ title: "Pervasive transmission of a carbapenem resistance plasmid in the gut mic
 collection: publications
 category: manuscripts
 permalink: /publication/RLS_JDF_2021
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2021-03-29
 venue: 'Nature Microbiology'
 paperurl: 'http://doi.org/10.1038/s41564-021-00879-y'
