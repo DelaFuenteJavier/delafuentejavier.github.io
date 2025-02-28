@@ -6,8 +6,8 @@ permalink: /publication/NatMicro_2021
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-03-29
 venue: 'Nature Microbiology'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1038/s41564-021-00879-y)'
+slidesurl: ['https://www.nature.com/articles/s41564-021-00879-y#citeas'
+paperurl: '[http://doi.org/10.1038/s41564-021-00879-y)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i> Nature Microbiology </i>. 1(1).'
 ---
 
