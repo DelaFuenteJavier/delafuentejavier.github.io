@@ -3,7 +3,7 @@ title: "Pervasive transmission of a carbapenem resistance plasmid in the gut mic
 collection: publications
 category: manuscripts
 permalink: /publication/RLS_JDF_2021
-excerpt: 'Authors: Ricardo León-Sampedro*, Javier DelaFuente*, Cristina Díaz-Agero, Thomas Crellen, Patrick Musicha, Jerónimo Rodríguez-Beltrán, Carmen de la Vega, Marta Hernández-García, R-GNOSIS WP5 Study Group, Nieves López-Fresneña, Patricia Ruiz-Garbajosa, Rafael Cantón, Ben S. Cooper & Álvaro San Millán '
+excerpt: 'León-Sampedro R., DelaFuente J. (co-first author),  Díaz-Agero C., Crellen T., Musicha P., Rodríguez-Beltrán J., de la Vega C., Hernández-García M., López-Fresneña N., Ruiz-Garbajosa P., Cantón R., Cooper B.S., & San Millán A. '
 date: 2021-03-29
 venue: 'Nature Microbiology'
 paperurl: 'http://doi.org/10.1038/s41564-021-00879-y'
