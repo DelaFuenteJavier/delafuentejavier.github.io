@@ -10,12 +10,12 @@ main:
 
   - title: "CV"
     url: /cv/
+
+    - title: "Science difussion"
+      url: /teaching/    
     
  # - title: "Talks"
  #   url: /talks/    
-
-- title: "Science difussion"
-  url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
