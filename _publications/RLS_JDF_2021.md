@@ -3,7 +3,7 @@ title: "Pervasive transmission of a carbapenem resistance plasmid in the gut mic
 collection: publications
 category: manuscripts
 permalink: /publication/RLS_JDF_2021
-excerpt: 'This article received the 2021 prize from the Spanish National Plan Against Resistance to Antibiotics (PRAN) to the best scientific publication of the year on AMR. '
+excerpt: '*This article received the 2021 prize from the Spanish National Plan Against Resistance to Antibiotics (PRAN) to the best scientific publication of the year on AMR.* '
 date: 2021-03-29
 venue: 'Nature Microbiology'
 paperurl: 'http://doi.org/10.1038/s41564-021-00879-y'
