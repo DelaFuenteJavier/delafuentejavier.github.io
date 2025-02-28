@@ -2,7 +2,7 @@
 title: "Pervasive transmission of a carbapenem resistance plasmid in the gut microbiota of hospitalized patients"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://doi.org/10.1038/s41564-021-00879-y)
+permalink:
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Nature Microbiology'
