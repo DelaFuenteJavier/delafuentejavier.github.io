@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Alba ets una cagona
+⚠️⚠️⚠️ WEBSITE UNDER CONSTRUCTION ⚠️⚠️⚠️
