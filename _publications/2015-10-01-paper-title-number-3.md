@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/JSD_2024.md
 excerpt: ''
 date: 2024-08-28
-venue: 'Nature Ecology and Evolution'
+venue: 'Nature Ecology & Evolution'
 paperurl: 'https://doi.org/10.1038/s41559-024-02523-4'
 ---
 
