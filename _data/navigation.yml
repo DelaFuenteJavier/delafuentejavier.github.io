@@ -11,7 +11,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Science difussion"
+ # - title: "Science difussion"
  #   url: /teaching/    
     
  # - title: "Talks"
