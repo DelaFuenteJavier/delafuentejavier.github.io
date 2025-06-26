@@ -11,14 +11,14 @@ main:
   - title: "CV"
     url: /cv/
 
- # - title: "Science difussion"
+  - title: "Science difussion"
  #   url: /teaching/    
     
  # - title: "Talks"
  #   url: /talks/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Short bio"
+    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
