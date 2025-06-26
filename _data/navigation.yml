@@ -17,8 +17,8 @@ main:
  # - title: "Talks"
  #   url: /talks/    
     
-  - title: "Short bio"
-    url: /portfolio/
+ # - title: "Short bio"
+  # url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
