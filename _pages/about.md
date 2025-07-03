@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research focuses on understanding the ecological and evolutionary factors that allow bacteria to adapt to diverse environments, with a particular emphasis on antimicrobial resistance and global warming.
+My research focuses on understanding the molecular and the eco-evolutionary factors that allow bacteria to adapt to diverse environments, with a particular emphasis on antimicrobial resistance and global warming.
 
 In 2018, I joined [Álvaro San Millán’s lab](https://www.plasmidlab.es/) at the University Hospital Ramón y Cajal, and later at the National Center for Biotechnology (CNB-CSIC), where I studied the transmission and evolution of plasmid-mediated antibiotic resistance in clinical enterobacteria. 
 
