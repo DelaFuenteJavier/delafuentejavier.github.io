@@ -15,3 +15,5 @@ In 2023, I earned a PhD with honors in Microbiology and began my postdoctoral wo
 In 2025, supported by a Juan de la Cierva fellowship, I joined [Macarena Toll-Riera’s lab](https://www.ibe.upf-csic.es/evolutionary-microbiology-group) at the Institute of Evolutionary Biology (IBE–UPF–CSIC). In Toll-Riera’s lab,In the Toll-Riera lab, I focus on exploring how bacteria respond to thermal perturbations and their implications.
 
 In my free time, I enjoy mountain biking and video games, but my true passion is [human towers (castells)](https://patrimoni.gencat.cat/en/collection/castells). The philosophy behind castells is built on teamwork, dedication, and a spirit of self-improvement, values that I try to apply in my research career.
+
+/images/Castell.png
