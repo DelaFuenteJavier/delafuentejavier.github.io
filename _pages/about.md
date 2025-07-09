@@ -16,4 +16,4 @@ In 2025, supported by a Juan de la Cierva fellowship, I joined [Macarena Toll-Ri
 
 In my free time, I enjoy mountain biking and video games, but my true passion is [human towers (castells)](https://patrimoni.gencat.cat/en/collection/castells). The philosophy behind castells is built on teamwork, dedication, and a spirit of self-improvement, values that I try to apply in my research career.
 
-/images/Castell.png
+!/images/Castell.png
